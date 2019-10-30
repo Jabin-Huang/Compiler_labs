@@ -1,4 +1,4 @@
-#合肥工业大学 编译原理实验
+# 合肥工业大学 编译原理实验
 
 * 词法分析
 ![lex](https://github.com/Jabin-Huang/CompilerTheory_homework/blob/master/image/lexical_analysis.png)
@@ -23,4 +23,5 @@
      ![LR1_res](https://github.com/Jabin-Huang/CompilerTheory_homework/blob/master/image/LR1_res.png)
 
    * 识别活前缀的DFA
+
      ![LR1_DFA](https://github.com/Jabin-Huang/CompilerTheory_homework/blob/master/image/LR1_DFA.png)
