@@ -14,11 +14,7 @@ int row = 1, col = 0, tcol = 0;
 char t[][20] = { "Error","关键字","分界符","算术运算符","关系运算符","无符号数","标识符" };
 
 //关键字表
-char k[SIZE][80] = { "auto", "double", "int", "struct", "break", "else", "long",
-					"switch","case", "enum", "register", "typedef", "char",
-					"extern", "return", "union","const", "float", "short",
-					"unsigned", "continue", "for", "signed", "void","default",
-				"goto", "sizeof", "volatile", "do", "if", "while", "static" };
+char k[SIZE][80] = { "do","end","for","if","print","scanf","then","while"};
 
 
 //分界符表（算术运算符和关系运算符也在里面）
